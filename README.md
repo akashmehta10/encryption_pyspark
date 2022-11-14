@@ -1,7 +1,7 @@
 # Data Encryption/Decryption (Pyspark)
 Data encryption translates data into another form, or code so that only people with access to a secret key (formally called a decryption key) or password can read it. Currently, encryption is one of the most popular and effective data security methods used by organizations. Two main types of data encryption exist - asymmetric encryption, also known as public-key encryption, and symmetric encryption. We encrypt and decrypt data almost every day when browsing websites, accessing digitally signed documents, making digital payments, etc.
 
-Full Description: <Medium Link Here>
+Full Description: https://medium.com/codex/encrypting-data-with-spark-big-data-with-pluggable-code-bd70175c98e2
 
 ## Configuration Steps
 
